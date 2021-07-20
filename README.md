@@ -195,6 +195,8 @@ For icon:
 ***
 Example: 
 :blush:
+
+
 Icon:
 
 
@@ -211,6 +213,8 @@ If you like it dont forget to star it and do connect in :
 ## Here is a online markdown editor you can try :
 ***
 [markdown-editor](https://markdown-editor-online.netlify.app/) made by [Rwitesh]("https://twitter.com/RwiteshBera" "follow him on twitter")
+
+[Rwitesh]("https://twitter.com/RwiteshBera" "follow him on twitter")
 If you want contribute to the markdown-editor here is the [repository link](https://github.com/rwiteshbera/Markdown-editor)
 
 
