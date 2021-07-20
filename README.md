@@ -194,8 +194,7 @@ For icon:
 ## Output:
 ***
 Example: 
-![image](https://user-images.githubusercontent.com/76175105/126373910-744a9737-1213-455a-bdaa-8865620f7d60.png)
-
+:blush:
 Icon:
 
 
@@ -211,7 +210,7 @@ If you like it dont forget to star it and do connect in :
 
 ## Here is a online markdown editor you can try :
 ***
-[markdown-editor](https://markdown-editor-online.netlify.app/) made by **[Rwitesh]("https://twitter.com/RwiteshBera" "follow him on twitter")**
+[markdown-editor](https://markdown-editor-online.netlify.app/) made by [Rwitesh]("https://twitter.com/RwiteshBera" "follow him on twitter")
 If you want contribute to the markdown-editor here is the [repository link](https://github.com/rwiteshbera/Markdown-editor)
 
 
