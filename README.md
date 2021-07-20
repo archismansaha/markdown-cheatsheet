@@ -194,7 +194,7 @@ For icon:
 ## Output:
 ***
 Example: 
-:blush:
+![image](https://user-images.githubusercontent.com/76175105/126373910-744a9737-1213-455a-bdaa-8865620f7d60.png)
 
 Icon:
 
