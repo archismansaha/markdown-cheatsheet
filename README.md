@@ -97,6 +97,7 @@ You can make nested ordered and unordered list:
 
 ***
 # Code Blocks :
+
 ``` 
 synatx: ``` code ```
 ``` (write code in next line) print("Have a great day") ```
